@@ -1,0 +1,12 @@
+{
+  "name": "praktikum-cicd-dhiya",
+  "version": "1.0.0",
+  "description": "Praktikum CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
